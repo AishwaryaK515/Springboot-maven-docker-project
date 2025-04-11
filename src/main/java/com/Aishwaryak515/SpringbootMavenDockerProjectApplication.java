@@ -15,12 +15,3 @@ public class SpringbootMavenDockerProjectApplication {
         SpringApplication.run(SpringbootMavenDockerProjectApplication.class, args);
     }
 
-}
-@RestController
-public class HelloController {
-
-    @GetMapping("/")
-    public String home() {
-        return "Hello from Spring Boot + Docker!";
-    }
-}
