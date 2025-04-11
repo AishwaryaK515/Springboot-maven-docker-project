@@ -15,3 +15,4 @@ public class SpringbootMavenDockerProjectApplication {
         SpringApplication.run(SpringbootMavenDockerProjectApplication.class, args);
     }
 
+}
