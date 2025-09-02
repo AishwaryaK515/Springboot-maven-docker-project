@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @SpringBootApplication
-@ComponentScan(basePackages = "com.Aishwaryak515") 
+@ComponentScan(basePackages = "Aishwaryak515.com") 
     
 public class SpringbootMavenDockerProjectApplication {
 
