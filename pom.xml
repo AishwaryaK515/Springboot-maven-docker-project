@@ -10,7 +10,7 @@
           </parent>
 
         <packaging>jar</packaging>
-        <groupId>com.Aishwaryak515</groupId>
+        <groupId>Aishwaryak515.com</groupId>
         <artifactId>Springboot-maven-docker-project</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <name>Springboot-maven-docker-project</name>
